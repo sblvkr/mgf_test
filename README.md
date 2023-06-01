@@ -14,6 +14,10 @@
 ```
 make start
 ```
+or simple...
+```
+docker compose up
+```
 
 ## About me 
  
